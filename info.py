@@ -26,7 +26,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 PICS = (environ.get('PICS', 'https://envs.sh/5Ra.jpg https://envs.sh/5RO.jpg https://envs.sh/5Rm.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/HowtoDowlnoad/5")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
@@ -86,7 +86,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Movie_Request_Group_23')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/AllBotUpdatemy')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/HowtoDowlnoad/3')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/HowtoDowlnoad/5')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Ctgmovies28') # Support Chat Link Without https:// or @
 
 # True Or False
